@@ -1,0 +1,28 @@
+{
+  "name": "quarmnode",
+  "version": "1.0.0",
+  "description": "ARM template quick and dirty generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoimHossain/quarm.git"
+  },
+  "keywords": [
+    "azure",
+    "arm-template",
+    "json",
+    "schema"
+  ],
+  "author": "Moim Hossain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoimHossain/quarm/issues"
+  },
+  "homepage": "https://github.com/MoimHossain/quarm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
