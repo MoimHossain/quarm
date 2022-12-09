@@ -24,7 +24,7 @@
   "homepage": "https://github.com/MoimHossain/quarm#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
