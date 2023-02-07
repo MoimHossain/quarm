@@ -10,9 +10,7 @@ namespace Quarm
         {
             var client = new HttpClient();
             var template = new DeploymentTemplate(client);
-
             template.GetTemplateAsync().Wait();
-
             Console.WriteLine("Hello World!");
         }
     }
